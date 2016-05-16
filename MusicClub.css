@@ -1,0 +1,111 @@
+.container {
+width:500px;
+box-shadow: 0 4px 10px 0 #141E26, 0 6px 20px 0 #141E26;
+text-align: center;
+border-radius: 15px 100px 30px;
+padding-bottom: 30px;
+}
+
+.gifTitre{
+width:500px;
+border-radius: 15px 100px 50px 30px;
+}
+
+.titre{
+font-family: 'Parisienne', cursive;
+color:white;
+font-size: 40px;
+text-shadow: 2px 2px #141E26;
+}
+
+#nomClub{
+font-size: 50px;
+position: absolute;
+top:161px;
+left:110px
+}
+
+hr{
+margin-top:30px;
+  border:none;
+  border-top:7px dotted #1F2E3B;
+  width:70%;
+}
+
+.box{
+border:5px dotted #B0B0B0;
+width:400px;
+margin:auto;
+margin-top:30px;
+overflow:hidden;
+font-family: 'Lora', serif;
+padding: 0px 5px;
+padding-top:30px;
+border-radius: 10px;
+}
+
+.gifContenu{
+width:400px;
+height:150px;
+border-radius: 50px;
+}
+
+#titreDescription{
+position: absolute;
+top:284px;
+left: 170px;
+}
+
+.textDescription{
+text-align:left;
+font-size:12px;
+}
+
+.textDescription p{
+text-align:center;
+font-size:14px;
+}
+
+#membres{
+display:inline-block;
+}
+
+#titreMembres{
+position: absolute;
+top:841px;
+left: 115px;
+}
+
+.composition{
+border:3px dashed #CFCFCF;
+width:160px;
+height: 280px;
+overflow:hidden;
+font-family: 'Lora', serif;
+padding: 0px 5px;
+display:inline-block;
+margin-top:10px;
+}
+
+#compo1{
+margin-right:10px;
+}
+
+
+#compo2{
+margin-left:10px;
+}
+
+.compoTitle{
+font-family: 'Parisienne', cursive;
+color:white;
+font-size: 30px;
+text-shadow: 2px 2px #141E26;
+font-weight: bold;
+}
+
+#titreEvents{
+position: absolute;
+top:1669px;
+left: 167px;
+}
